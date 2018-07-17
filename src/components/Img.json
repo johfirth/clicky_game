@@ -1,0 +1,48 @@
+[{
+  "name": "adidas",
+  "url": "./images/adidas.jpg"
+},
+{
+  "name": "apple",
+  "url": "./images/apple.png"
+},
+{
+  "name": "coke",
+  "url": "./images/coke.jpg"
+},
+{
+  "name": "dominos",
+  "url": "./images/dominos.png"
+},
+{
+  "name": "fedex",
+  "url": "./images/fedex.png"
+},
+{
+  "name": "mcdonalds",
+  "url": "./images/mcdonalds.png"
+},
+{
+  "name": "mercedes",
+  "url": "./images/mercedes.jpg"
+},
+{
+  "name": "nike",
+  "url": "./images/nike.png"
+},
+{
+  "name": "seveneleven",
+  "url": "./images/seveneleven.png"
+},
+{
+  "name": "starbucks",
+  "url": "./images/starbucks.png"
+},
+{
+  "name": "vw",
+  "url": "./images/vw.jpg"
+},
+{
+  "name": "walmart",
+  "url": "./images/walmart.png"
+}]
